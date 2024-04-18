@@ -1,4 +1,4 @@
-# Sum Odd (Udemy challenge)
+# Sum Odd (Udemy challenge/Control Flow)
 Write a method called isOdd with an int parameter and call it number. The method needs to return a boolean.
 
 Check that number is > 0, if it is not return false.
